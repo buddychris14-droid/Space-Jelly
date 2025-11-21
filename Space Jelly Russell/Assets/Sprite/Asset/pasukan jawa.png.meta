@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +95,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pasukan jawa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 106
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e274002a32a78e449a5a34e348f71e8
+      internalID: 879797785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81941aafb63d8a348b797eaf127b60d0
+      internalID: -40917406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 328
+        width: 308
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c90db24db35f4448a3190578e4e935
+      internalID: 1216431945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_3
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 324
+        width: 299
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5de4dfa646ac4383a2d64f94c58f6
+      internalID: 1734492725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 331
+        width: 177
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba8930fdf7bc5a4d98195b97c1449eb
+      internalID: 569632294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c35693a54bbe4d9450c66090bb116
+      internalID: 789994894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 182
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c188195a2a9c45b1fc3950b5a1be5
+      internalID: -1908901958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 184
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b62c7b2bb99642a177861b5062f2d
+      internalID: 789436765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23171b271a4fbce44a026c40437301c3
+      internalID: 1622855227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 254
+        width: 176
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771b59b7a02e3a4ca22206247f4b692
+      internalID: -750368025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 256
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5983816e442ee44da47c231f9d47b10
+      internalID: -794043404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 252
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec905f6850dcc046a885b109dc3f638
+      internalID: 1212906534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_12
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 256
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0e86757c995342a9b8ddf984a08e2
+      internalID: -1838150094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 256
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7105a8fc65d6574aba7823b7e1368de
+      internalID: 883575103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasukan jawa_14
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 256
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f6e0493ac9fa42be090f758daa2fb
+      internalID: -1366430800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +421,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pasukan jawa_0: 879797785
+      pasukan jawa_1: -40917406
+      pasukan jawa_10: -794043404
+      pasukan jawa_11: 1212906534
+      pasukan jawa_12: -1838150094
+      pasukan jawa_13: 883575103
+      pasukan jawa_14: -1366430800
+      pasukan jawa_2: 1216431945
+      pasukan jawa_3: 1734492725
+      pasukan jawa_4: 569632294
+      pasukan jawa_5: 789994894
+      pasukan jawa_6: -1908901958
+      pasukan jawa_7: 789436765
+      pasukan jawa_8: 1622855227
+      pasukan jawa_9: -750368025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
